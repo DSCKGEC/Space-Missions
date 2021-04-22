@@ -28,6 +28,10 @@ The DataSet was scraped from https://nextspaceflight.com/launches/past/?page=1 a
   ├── notebooks/        Contains the jupyter notebook files of Space Missions.
 ```
 
+## Datasets and Notebooks
+  - `space_missions.csv` is the dataset for the notebook `space_missions_eda.ipynb`
+  - `space_missions_cleaned.csv` is the dataset for the notebook `space_missions_prediction.ipynb`
+
 ## Getting started
 
 
@@ -92,7 +96,6 @@ Contributing is also a great way to learn more about social coding on Github, ne
 ### Guidelines
 
 - Before starting to work on any issue or feature, open an issue explaining the changes you want to make and wait for any of the project maintainers to assign it to you.
-- Once the issue has been assigned, we'd recommend you creating a new branch with name `issue-xx` where xx is the issue number that you were assigned to.
 - Use better commit messages that explain the changes you make. View the example below:
     - Bad commit message: `updated readme`
     - Good commit message: `updated contributors list in readme`
@@ -100,7 +103,7 @@ Contributing is also a great way to learn more about social coding on Github, ne
 
 ### Steps to follow for Pull Request
 
-- Create a folder in your repo in the notebook folder, which will contain a new notebook which solves a feature. Note that all issues dont require to create a folder. If required, it will be clearly mentioned.
+- For solving an issue/adding a feature, write the code ***after*** the original code finishes and do not forget to add the issue name and number as a heading in the notebook.
 - Before Submitting the PR, make sure to have a link of colab notebook of the feature/issue solved so that we can check easily. This even applies to those who are doing on anaconda.
 ## Authors
 
