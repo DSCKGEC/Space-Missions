@@ -66,7 +66,7 @@ The DataSet was scraped from https://nextspaceflight.com/launches/past/?page=1 a
 
 There are two ways of running the code.
   1. Running the code on web browser.(Google Colab) [Recommended]
-      - Head on to [Google colab](https://www.colab.research.google.com)
+      - Head on to [Google colab](https://colab.research.google.com/)
       - Then click on ```Upload Notebook``` Tab.
       - Upload the notebook that you got from this repo.
         ![Colab-1](https://res.cloudinary.com/codehackerone/image/upload/v1618463907/ML/colab-2_c14swf.png)
@@ -85,7 +85,8 @@ There are two ways of running the code.
       - Start Editing.
 ## Live demo
 
-[Head to here for live preview](https://colab.research.google.com/drive/1xuvcWLHTTqqblZplYq8r83G6b5BzBycH?usp=sharing)
+- [Head to here for the `Space_Missions_EDA` live preview](https://colab.research.google.com/drive/1LsUBEn3x8beVJZAJf5cF1EY-RiMsrc-g?usp=sharing)
+- [Head to here for the `Space_Missions_Predictions` live preview](https://colab.research.google.com/drive/1CVgfyJVZBBuAKxYqyvXeCRmgsr80XHxj?usp=sharing)
 
 ## Contributing
 
